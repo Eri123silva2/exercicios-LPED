@@ -1,0 +1,5 @@
+//Exemplo 1.4 - Tamanho de um vetor.
+
+var nomes = ["bola", "carro", "escola"]
+
+var tamanho = nomes.length// tamanho = 3
